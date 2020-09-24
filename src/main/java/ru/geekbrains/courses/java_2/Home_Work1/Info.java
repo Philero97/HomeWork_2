@@ -1,0 +1,5 @@
+package ru.geekbrains.courses.java_2.Home_Work1;
+
+public interface Info {
+    String getName();
+}
